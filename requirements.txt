@@ -1,0 +1,8 @@
+gradio
+SpeechRecognition
+gttS
+langchain
+langchain-community
+langchain-openai
+openai
+chromadb
